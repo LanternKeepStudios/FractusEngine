@@ -1,0 +1,32 @@
+# Visual Studio specific
+.vs
+x64
+Fractus.vcxproj.user
+
+# Automake specifc
+ar-lib
+m4
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.guess
+config.log
+config.status
+config.sub
+configure
+configure~
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+*.lo
+*.o
+.deps/
+
+# Linux/Apple Mac
+.dirstamp
+*.a
+*.la
